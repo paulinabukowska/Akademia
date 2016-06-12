@@ -1,0 +1,14 @@
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\bin\Debug\Pojazdy.exe.config
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\bin\Debug\Pojazdy.exe
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\bin\Debug\Pojazdy.pdb
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\Pojazdy.csprojResolveAssemblyReference.cache
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\MainWindow.g.cs
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\App.g.cs
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\Pojazdy_MarkupCompile.cache
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\Pojazdy_MarkupCompile.lref
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\MainWindow.baml
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\Pojazdy.g.resources
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\Pojazdy.Properties.Resources.resources
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\Pojazdy.csproj.GenerateResource.Cache
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\Pojazdy.exe
+E:\C#\Akademia C#\PROJEKT\Pojazdy\Pojazdy\obj\Debug\Pojazdy.pdb
